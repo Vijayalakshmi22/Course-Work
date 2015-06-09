@@ -1,0 +1,27 @@
+x<-1
+print(x)
+x
+#assigning value to msg
+msg<-"hello"
+msg
+print(msg)
+x<-1:20
+x
+sqrt(16)
+x<-16^0.5
+x
+y<-4^3
+y
+log10(1000)
+log(1000)
+exp(log(1000))
+log2(64)
+?log
+pi
+round(pi)
+round(pi,digits=4)
+trunc(pi)
+sin(pi)
+cos(pi)
+sin(pi/2)
+cos(pi/2)
